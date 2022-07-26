@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "First Blog",
+      "body": "I am twenty-one years existing, graduated from Cagayan State University - Carig Campus with a degree of Bachelor of Science in Computer Engineering. Being a fresh graduate made me anxious about many things especially I was certified unemployed. Writing this article, my first blog, I didn't actually know where this piece is going. I was just thinking of how to actually introduce myself as for you to know me more. Furthermore, me myself, eventually unconscious of what path I am going to track. My heart goes well into writing, and my brain wants to be a web-developer (inspite the indecisiveness).",
+      "category": "Lifestyle",
+      "id": 1
+    },
+    {
+      "title": "My Future Self",
+      "body": "My childhood dream is really to become a teacher or an educator that will educate children about life and humankind's nature. As I was growing, and as 'change' as the only constant in the world, the childhood dream I used to keep varied. Experiences made me want to become an engineer, computer engineer, which drives me to take a degree in computer engineering. Now that I am an Engineer standing, I couldn't imagine how my entire journey brought me of who I am today. I don't actually know what my future is but I really trust the process I'm into. Web Developer was become my instant career after some time of coding and developing systems, and I went into the decision of pursuing that career. But as I was examining myself lately, I can't really viualize myself being a programmer. My confidence level just decrease instantly. The thing is, I really didn't trust my ability well. I doubt myself and it sucks being in the two-way street, deciding what to pursue and follow.",
+      "category": "Lifestyle",
+      "id": 2
+    },
+    {
+      "title": "Cagayan Valley",
+      "body": "Studying away from home is saddening, especially a five-hour drive away. Being far away from home was giving me extra power to strive more and give more of what makes me a touger kind of a woman. Isabela to Tuguegarao City, Cagayan. It's not that fine at first but eventually, the situation became tolerable and endurable. Being away somewhat radiates my ability to repel the hard bounces of life and it teaches me to become independent. In the end, I tap myself and says, 'You did well!'.",
+      "category": "Travel",
+      "id": 3
+    },
+    {
+      "title": "Descriptive Writing",
+      "body": "Being an author is challenging whilst creating a world out of scratch and tailoring every pieces that would bring about a glamorous piece of work.",
+      "category": "Hobby",
+      "id": 4
+    },
+    {
+      "title": "Web Developer",
+      "body": "Be a web developer is the career I really want to pursue after graduation. But out of  confidence, I wasn't able to justify the career I once loved to pursue.",
+      "category": "Work",
+      "id": 5
+    }
+  ]
+}
